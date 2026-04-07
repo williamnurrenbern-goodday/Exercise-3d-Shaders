@@ -1,14 +1,24 @@
-# Exercise-3d-Shaders
+# Project Name
 
-Exercise for MSCH-C220
+BreakingBlue
 
-The final step adding "juicy" features to a simple brick-breaker game.
+#Context and date
 
+Finished 04/07/26
+
+Description
+
+A short and fun single-player game that includes a flavorful adaptation of a classic brick-breaking game. 
 
 ## Implementation
-
-Built using Godot 2022.3.45f
-
+Bricks fall and disappear once they are hit
+Particles were added when the ball hits the paddle (They are light purple)  
+The eyes follow the ball when it moves (Tracks it) 
+The screen shakes when a brick is hit
+Added new eyes (bloodshot)
+Added Background Music
+Changed the Colors of the Bricks and Paddle
+Added unique sound effects on the death sound and the ball hitting the Paddle
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -21,7 +31,6 @@ Built using Godot 2022.3.45f
 
 ## Future Development
 
-Power-ups, etc.
 
 ## Created by 
 
